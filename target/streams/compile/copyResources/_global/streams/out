@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dhirendrakashyap/Projects/configs-reading-in-scala/src/main/resources/application.dev.conf,/Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.dev.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dhirendrakashyap/Projects/configs-reading-in-scala/src/main/resources/application.conf,/Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dhirendrakashyap/Projects/configs-reading-in-scala/src/main/resources/application.properties,/Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.properties)[0m

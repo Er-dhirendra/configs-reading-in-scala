@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/configs-reading-in-scala_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JavaPropertiesConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/JavaPropertiesConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/ConfigApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/ConfigApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.dev.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.dev.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/ConfigApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JavaPropertiesConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/JavaPropertiesConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TypeSafeConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/TypeSafeConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/application.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TypeSafeConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhirendrakashyap/Projects/configs-reading-in-scala/target/scala-2.13/classes/TypeSafeConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
